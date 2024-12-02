@@ -1,3 +1,39 @@
+# ✨ Design Pattern: Um Breve Resumo
+
+Os **Design Patterns** (Padrões de Projeto) são soluções reutilizáveis para problemas comuns no desenvolvimento de software. Eles são baseados em boas práticas e servem como guias para projetar sistemas mais robustos, flexíveis e fáceis de manter.
+
+---
+
+## 📝 Classificação
+Os padrões de projeto são divididos em três categorias principais:
+
+1. **Criacionais** 🏗️  
+   Focados em como os objetos são criados, garantindo flexibilidade e reutilização.  
+   Exemplos: Singleton, Factory, Builder.
+
+2. **Estruturais** 🧱  
+   Tratam da composição de classes e objetos para formar estruturas maiores.  
+   Exemplos: Adapter, Composite, Decorator.
+
+3. **Comportamentais** 🔄  
+   Enfocam a interação entre objetos e a forma como responsabilidades são distribuídas.  
+   Exemplos: Observer, Strategy, State.
+
+---
+
+## 🎯 Benefícios
+- **Reutilização de Código:** Soluções testadas e aprovadas.  
+- **Manutenção Facilitada:** Estruturas claras e organizadas.  
+- **Colaboração Eficiente:** Termos padronizados para comunicação entre desenvolvedores.
+
+---
+
+## 🌟 Por Que Usar?
+Os Design Patterns ajudam a resolver problemas recorrentes de forma eficiente, promovendo qualidade no design do software e acelerando o desenvolvimento com soluções já validadas.
+
+
+
+
 # 🔄 Padrão State: Uma Explicação Detalhada
 
 ## 📝 Definição
